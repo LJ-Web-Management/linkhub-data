@@ -51,5 +51,10 @@
       ]
     }
   ],
-  "social": []
+  "social": [
+    {
+      "network": "instagram",
+      "url": "https://www.instagram.com/industrial_certified_training/"
+    }
+  ]
 }
