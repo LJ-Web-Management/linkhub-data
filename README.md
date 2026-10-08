@@ -22,6 +22,10 @@ site (for example `assets/icons/mold.png`).
 
 A page with one category shows a plain list; headings appear once it has two or more.
 
+`social` lists the round social media buttons under the page intro, in order: `network` is one of
+`facebook`, `instagram`, `youtube`, `x`, `linkedin`, `pinterest`, `website`, plus a `url`. An
+empty list hides the row.
+
 ## Notes
 
 - This repo must stay **public**: visitors' browsers read `links.json` straight from GitHub.

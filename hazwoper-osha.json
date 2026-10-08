@@ -280,5 +280,35 @@
         }
       ]
     }
+  ],
+  "social": [
+    {
+      "network": "facebook",
+      "url": "https://www.facebook.com/HazwoperOsha"
+    },
+    {
+      "network": "instagram",
+      "url": "https://instagram.com/hazwoper_osha_training"
+    },
+    {
+      "network": "youtube",
+      "url": "https://www.youtube.com/@hazwoper-osha"
+    },
+    {
+      "network": "x",
+      "url": "https://x.com/HazwoperOsha"
+    },
+    {
+      "network": "linkedin",
+      "url": "https://www.linkedin.com/company/hazwoper-osha/"
+    },
+    {
+      "network": "pinterest",
+      "url": "https://www.pinterest.com/HazwoperOsha/"
+    },
+    {
+      "network": "website",
+      "url": "https://hazwoper-osha.com/"
+    }
   ]
 }
