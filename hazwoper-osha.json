@@ -1,0 +1,284 @@
+{
+  "sections": [
+    {
+      "title": "Start here",
+      "links": [
+        {
+          "title": "HAZWOPER OSHA Training",
+          "subtitle": "hazwoper-osha.com",
+          "url": "https://hazwoper-osha.com/"
+        },
+        {
+          "title": "Course Catalog",
+          "subtitle": "Browse every course",
+          "url": "https://hazwoper-osha.com/course-catalog/"
+        },
+        {
+          "title": "All Online Courses",
+          "subtitle": "OSHA, EPA, DOT, IATA & NFPA",
+          "url": "https://hazwoper-osha.com/online-courses/"
+        },
+        {
+          "title": "Virtual Instructor-Led Training",
+          "subtitle": "Live classes with an instructor",
+          "url": "https://hazwoper-osha.com/virtual-instructor-led-training"
+        }
+      ]
+    },
+    {
+      "title": "Online courses",
+      "links": [
+        {
+          "title": "OSHA 40-Hour HAZWOPER",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/osha-40-hour-hazwoper-online/"
+        },
+        {
+          "title": "OSHA 8-Hour HAZWOPER Refresher",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/osha-8-hour-hazwoper-refresher-online/"
+        },
+        {
+          "title": "24-Hour HAZWOPER TSD Operations",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/24-hour-hazwoper-tsd-operations-p/"
+        },
+        {
+          "title": "RCRA Hazardous Waste Generator",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/rcra-hazwoper-waste-generator/"
+        },
+        {
+          "title": "RCRA Hazardous Waste Generator Refresher",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/rcra-hazardous-waste-generator-refresher-training"
+        },
+        {
+          "title": "DOT Hazmat Transportation General Awareness",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-general-awareness-training/"
+        },
+        {
+          "title": "10-Hour DOT Hazmat Advanced General Awareness",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-advanced-general-awareness-training/"
+        },
+        {
+          "title": "Electrical Safety Training (NFPA 70E)",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/electrical-safety-training-nfpa-70e/"
+        },
+        {
+          "title": "OSHA Lockout/Tagout (LOTO)",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/osha-lockout-tagout-loto-training/"
+        },
+        {
+          "title": "OSHA Fall Protection Safety",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/osha-fall-protection-safety-training"
+        },
+        {
+          "title": "OSHA Competent Person for Fall Protection",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/osha-competent-person-for-fall-protection-training-new"
+        },
+        {
+          "title": "OSHA Hot Work Safety for General Industry",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/osha-hot-work-safety-for-general-industry-training"
+        },
+        {
+          "title": "OSHA Hot Work Safety for Construction",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/osha-hot-work-safety-for-construction-training"
+        },
+        {
+          "title": "OSHA Hazard Communication with GHS",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/osha-hazard-communication-with-ghs/"
+        },
+        {
+          "title": "Confined Space Awareness for Construction",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/confined-space-awareness-training-for-construction-industry/"
+        },
+        {
+          "title": "Hydrogen Sulfide (H2S) Awareness",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/hydrogen-sulfide-awareness-training/"
+        },
+        {
+          "title": "OSHA Scaffolding Safety",
+          "subtitle": "Online course",
+          "url": "https://hazwoper-osha.com/online-courses/scaffolding-safety-training/"
+        }
+      ]
+    },
+    {
+      "title": "Safety videos",
+      "links": [
+        {
+          "title": "Training for Workplace Safety",
+          "subtitle": "YouTube",
+          "url": "https://youtu.be/Ud9wKfNKZBI"
+        },
+        {
+          "title": "Significance of HAZMAT Placards When Transporting Hazardous Materials",
+          "subtitle": "YouTube",
+          "url": "https://youtu.be/fq4XGEektCI"
+        },
+        {
+          "title": "Reporting Hazardous Material (Hazmat) Incidents",
+          "subtitle": "YouTube",
+          "url": "https://youtu.be/ujOQ--8HVks"
+        },
+        {
+          "title": "Responsibilities of Shippers and Air Carriers",
+          "subtitle": "YouTube",
+          "url": "https://youtu.be/pPyFkQ_IWa8"
+        },
+        {
+          "title": "Shipping Requirements for Lithium Battery-Powered Vehicles and Equipment",
+          "subtitle": "YouTube",
+          "url": "https://youtu.be/ylt5tBAeIYQ"
+        },
+        {
+          "title": "The Confined Spaces Permitting Process",
+          "subtitle": "YouTube",
+          "url": "https://youtu.be/pDlonKwahI8"
+        },
+        {
+          "title": "Forced-Air Ventilation in Confined Spaces",
+          "subtitle": "YouTube",
+          "url": "https://youtu.be/hHiqi_5B1Hw"
+        },
+        {
+          "title": "Hazard Communication: An Overview",
+          "subtitle": "YouTube",
+          "url": "https://youtu.be/iiRZXkjiv2I"
+        },
+        {
+          "title": "Compressed Gas Safety Procedures",
+          "subtitle": "YouTube",
+          "url": "https://youtu.be/hRzatAPzyN4"
+        },
+        {
+          "title": "Electricity Can Be Dangerous",
+          "subtitle": "YouTube",
+          "url": "https://youtu.be/zIbWSLET3FM"
+        }
+      ]
+    },
+    {
+      "title": "Articles & safety tips",
+      "links": [
+        {
+          "title": "How to Calculate Fall Clearance for a Personal Fall Arrest System",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/how-to-calculate-fall-clearance-for-a-personal-fall-arrest-system"
+        },
+        {
+          "title": "The 6 Categories of Workplace Hazards",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/the-6-categories-of-workplace-hazards/"
+        },
+        {
+          "title": "Tips for Avoiding Common Electrical Hazards in the Workplace",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/tips-for-avoiding-common-electrical-hazards"
+        },
+        {
+          "title": "Electrical Safety: Importance and Electrical Hazard Prevention",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/electrical-safety-importance-and-electrical-hazard-prevention/"
+        },
+        {
+          "title": "The Role of Lockout/Tagout in Electrical Safety",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/the-role-of-lockout-tagout-in-electrical-safety/"
+        },
+        {
+          "title": "Tips for Proper Packaging and Labeling of Lithium-Ion Batteries",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/tips-for-packaging-and-labeling-of-lithium-ion-batteries"
+        },
+        {
+          "title": "Safe Shipping of Lithium-Ion and Metal Batteries and Cells",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/online-safety-training-for-shipping-lithium-ion-and-metal-cells-and-batteries"
+        },
+        {
+          "title": "The Dos and Don'ts of Shipping Lithium Batteries",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/the-dos-and-donts-of-shipping-lithium-batteries"
+        },
+        {
+          "title": "Hazmat Transportation Training Requirements",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/hazmat-transportation-training-requirements/"
+        },
+        {
+          "title": "Hazmat Training in Compliance with DOT Regulations",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/hazmat-training-in-compliance-with-us-department-of-transportation-hazardous-materials-regulations"
+        },
+        {
+          "title": "EPA Hazardous Waste Generator Categories",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/epa-hazardous-waste-generator-categories/"
+        },
+        {
+          "title": "Vital Safety Protocols for Ammonia Refrigeration Systems in Retail",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/ensuring-safety-vital-protocols-for-ammonia-refrigeration-systems-in-retail-settings"
+        },
+        {
+          "title": "5 Essential Mold Sampling Methods for Indoor Air Quality",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/essential-mold-sampling-methods-for-effective-indoor-air-quality-assessment"
+        },
+        {
+          "title": "Hidden Mold in Homes, Schools, and Other Buildings",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/what-you-cant-see-cant-hurt-you-is-this-really-true-for-hidden-mold-in-homes-schools-and-other-buildings/"
+        },
+        {
+          "title": "3 Rewarding Safety Training Methods",
+          "subtitle": "HAZWOPER OSHA blog",
+          "url": "https://hazwoper-osha.com/blog-post/3-rewarding-safety-training-methods/"
+        }
+      ]
+    },
+    {
+      "title": "More reading",
+      "links": [
+        {
+          "title": "HAZWOPER Refresher Training in a Nutshell",
+          "subtitle": "safels.com",
+          "url": "https://safels.com/hazwoper-refresher-training-in-a-nutshell/"
+        },
+        {
+          "title": "Levels of HAZWOPER Training",
+          "subtitle": "safeopedia.com",
+          "url": "https://www.safeopedia.com/which-type-of-hazwoper-training-do-your-workers-need/2/9248"
+        },
+        {
+          "title": "OSHA: Winter Weather Preparedness",
+          "subtitle": "osha.gov",
+          "url": "https://www.osha.gov/winter-weather/preparedness"
+        },
+        {
+          "title": "OSHA: Housekeeping at Work Sites (1915.81)",
+          "subtitle": "osha.gov",
+          "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1915/1915.81"
+        },
+        {
+          "title": "Safety Tip: Transporting Hazardous Materials",
+          "subtitle": "instagram.com",
+          "url": "https://www.instagram.com/p/CaVAWKpPAhZ/"
+        }
+      ]
+    }
+  ]
+}

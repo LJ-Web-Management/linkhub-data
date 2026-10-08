@@ -1,0 +1,63 @@
+{
+  "sections": [
+    {
+      "title": "Training websites",
+      "links": [
+        {
+          "title": "Industrial Certified Training",
+          "subtitle": "ictraining.us",
+          "url": "https://ictraining.us",
+          "icon": "assets/logo.png"
+        },
+        {
+          "title": "HAZWOPER OSHA Training",
+          "subtitle": "hazwoper-osha.com",
+          "url": "https://hazwoper-osha.com",
+          "icon": "assets/icons/hazwoper.png"
+        },
+        {
+          "title": "Training Partner Program",
+          "subtitle": "hazwoperosha.org",
+          "url": "https://hazwoperosha.org",
+          "icon": "assets/icons/hazwoper.png"
+        },
+        {
+          "title": "AI Skills for Work",
+          "subtitle": "ai-skills.work",
+          "url": "https://ai-skills.work",
+          "icon": "assets/icons/ai-skills.png"
+        },
+        {
+          "title": "Confined Space Training",
+          "subtitle": "confined-space.com",
+          "url": "https://confined-space.com",
+          "icon": "assets/icons/confined-space.png"
+        },
+        {
+          "title": "Mold Remediation Training",
+          "subtitle": "moldtraining.us",
+          "url": "https://moldtraining.us",
+          "icon": "assets/icons/mold.png"
+        },
+        {
+          "title": "Excavation, Trenching & Shoring",
+          "subtitle": "excavationtrenchingshoring.com",
+          "url": "https://excavationtrenchingshoring.com",
+          "icon": "assets/icons/excavation.png"
+        },
+        {
+          "title": "Stormwater Planning (SWPPP)",
+          "subtitle": "stormwaterplanning.us",
+          "url": "https://stormwaterplanning.us",
+          "icon": "assets/icons/stormwater.png"
+        },
+        {
+          "title": "Data Center Training",
+          "subtitle": "datacentertraining.us",
+          "url": "https://datacentertraining.us",
+          "icon": "assets/icons/datacenter.svg"
+        }
+      ]
+    }
+  ]
+}
