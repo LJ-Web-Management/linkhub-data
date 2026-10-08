@@ -9,7 +9,7 @@ The links shown on the Link Hub pages. One file per site:
 
 Each file is a list of categories (`sections`), each with its links (`title`, optional `subtitle`,
 `url`, optional `icon`). The page loads its file from GitHub when someone visits, so a change here
-shows on the page within about a minute. No deploy needed.
+shows on the page within about 5 minutes (GitHub caches the file that long). No deploy needed.
 
 ## Editing
 
