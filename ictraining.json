@@ -55,6 +55,10 @@
     {
       "network": "instagram",
       "url": "https://www.instagram.com/industrial_certified_training/"
+    },
+    {
+      "network": "linkedin",
+      "url": "https://www.linkedin.com/company/industrial-certified-training/?viewAsMember=true"
     }
   ]
 }
