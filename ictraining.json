@@ -6,56 +6,47 @@
         {
           "title": "Industrial Certified Training",
           "subtitle": "ictraining.us",
-          "url": "https://ictraining.us",
-          "icon": "assets/logo.png"
+          "url": "https://ictraining.us"
         },
         {
           "title": "HAZWOPER OSHA Training",
           "subtitle": "hazwoper-osha.com",
-          "url": "https://hazwoper-osha.com",
-          "icon": "assets/icons/hazwoper.png"
+          "url": "https://hazwoper-osha.com"
         },
         {
           "title": "Training Partner Program",
           "subtitle": "hazwoperosha.org",
-          "url": "https://hazwoperosha.org",
-          "icon": "assets/icons/hazwoper.png"
+          "url": "https://hazwoperosha.org"
         },
         {
           "title": "AI Skills for Work",
           "subtitle": "ai-skills.work",
-          "url": "https://ai-skills.work",
-          "icon": "assets/icons/ai-skills.png"
+          "url": "https://ai-skills.work"
         },
         {
           "title": "Confined Space Training",
           "subtitle": "confined-space.com",
-          "url": "https://confined-space.com",
-          "icon": "assets/icons/confined-space.png"
+          "url": "https://confined-space.com"
         },
         {
           "title": "Mold Remediation Training",
           "subtitle": "moldtraining.us",
-          "url": "https://moldtraining.us",
-          "icon": "assets/icons/mold.png"
+          "url": "https://moldtraining.us"
         },
         {
           "title": "Excavation, Trenching & Shoring",
           "subtitle": "excavationtrenchingshoring.com",
-          "url": "https://excavationtrenchingshoring.com",
-          "icon": "assets/icons/excavation.png"
+          "url": "https://excavationtrenchingshoring.com"
         },
         {
           "title": "Stormwater Planning (SWPPP)",
           "subtitle": "stormwaterplanning.us",
-          "url": "https://stormwaterplanning.us",
-          "icon": "assets/icons/stormwater.png"
+          "url": "https://stormwaterplanning.us"
         },
         {
           "title": "Data Center Training",
           "subtitle": "datacentertraining.us",
-          "url": "https://datacentertraining.us",
-          "icon": "assets/icons/datacenter.svg"
+          "url": "https://datacentertraining.us"
         }
       ]
     }
