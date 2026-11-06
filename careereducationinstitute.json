@@ -1,0 +1,55 @@
+{
+  "sections": [
+    {
+      "title": "Career Education Institute",
+      "links": [
+        {
+          "title": "Career Education Institute",
+          "subtitle": "careereducationinstitute.org",
+          "url": "https://www.careereducationinstitute.org/"
+        },
+        {
+          "title": "Job-Title Training",
+          "subtitle": "Online, self-paced career training",
+          "url": "https://www.careereducationinstitute.org/training/"
+        },
+        {
+          "title": "Career Match Quiz",
+          "subtitle": "Free quiz to find careers that fit you",
+          "url": "https://www.careereducationinstitute.org/quizzes/career-match/"
+        },
+        {
+          "title": "Explore Careers",
+          "subtitle": "Pay, outlook and day-in-the-life guides",
+          "url": "https://www.careereducationinstitute.org/careers/"
+        },
+        {
+          "title": "Salary Guide",
+          "subtitle": "U.S. pay by job title",
+          "url": "https://www.careereducationinstitute.org/salary-guide/"
+        },
+        {
+          "title": "Career Guides",
+          "subtitle": "Choosing, changing and landing a career",
+          "url": "https://www.careereducationinstitute.org/guides/"
+        },
+        {
+          "title": "CEI Blog",
+          "subtitle": "blog.careereducationinstitute.org",
+          "url": "https://blog.careereducationinstitute.org/"
+        },
+        {
+          "title": "Training for Employers",
+          "subtitle": "Onboarding training for teams",
+          "url": "https://www.careereducationinstitute.org/for-employers/"
+        },
+        {
+          "title": "Contact Us",
+          "subtitle": "Questions, enrollment and group pricing",
+          "url": "https://www.careereducationinstitute.org/contact/"
+        }
+      ]
+    }
+  ],
+  "social": []
+}

@@ -6,6 +6,7 @@ The links shown on the Link Hub pages. One file per site:
 |---|---|---|
 | `hazwoper-osha.json` | https://linkhub.hazwoper-osha.com/ | https://linkhub.hazwoper-osha.com/admin/ |
 | `ictraining.json` | https://linkhub.ictraining.us/ | https://linkhub.ictraining.us/admin/ |
+| `careereducationinstitute.json` | https://linkhub.careereducationinstitute.org/ | https://linkhub.careereducationinstitute.org/admin/ |
 
 Each file is a list of categories (`sections`), each with its links (`title`, optional `subtitle`,
 `url`, optional `icon`). The page loads its file from GitHub when someone visits, so a change here
@@ -14,7 +15,7 @@ shows on the page within about 5 minutes (GitHub caches the file that long). No 
 ## Editing
 
 Use either dashboard. Sign in with a fine-grained GitHub token that has **Contents: Read and
-write** on this repository; the same token works for both sites.
+write** on this repository; the same token works for every site.
 
 You can also edit the files directly on GitHub. Keep them valid JSON, and give every link a full
 `https://` address; anything else is dropped from the page. `icon` is a path to an image on that
