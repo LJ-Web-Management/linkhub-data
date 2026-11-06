@@ -14,11 +14,6 @@
           "url": "https://hazwoper-osha.com"
         },
         {
-          "title": "Training Partner Program",
-          "subtitle": "hazwoperosha.org",
-          "url": "https://hazwoperosha.org"
-        },
-        {
           "title": "AI Skills for Work",
           "subtitle": "ai-skills.work",
           "url": "https://ai-skills.work"
@@ -59,6 +54,10 @@
     {
       "network": "linkedin",
       "url": "https://www.linkedin.com/company/industrial-certified-training/?viewAsMember=true"
+    },
+    {
+      "network": "x",
+      "url": "https://x.com/ictraining_ushttps://x.com/ictraining_us"
     }
   ]
 }
