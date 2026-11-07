@@ -59,6 +59,14 @@
     {
       "network": "instagram",
       "url": "https://www.instagram.com/careereducationinstitute/"
+    },
+    {
+      "network": "x",
+      "url": "https://www.linkedin.com/company/careereducationinstitute"
+    },
+    {
+      "network": "youtube",
+      "url": "https://www.youtube.com/@careereducationinstitute"
     }
   ]
 }
