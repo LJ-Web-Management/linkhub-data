@@ -6,7 +6,7 @@ The links shown on the Link Hub pages. One file per site:
 |---|---|---|
 | `hazwoper-osha.json` | https://linkhub.hazwoper-osha.com/ | https://linkhub.hazwoper-osha.com/admin/ |
 | `ictraining.json` | https://linkhub.ictraining.us/ | https://linkhub.ictraining.us/admin/ |
-| `careereducationinstitute.json` | https://linkhub.careereducationinstitute.org/ | https://linkhub.careereducationinstitute.org/admin/ |
+| `careereducationinstitute.json` | https://linkhub.cei.ictraining.us/ | https://linkhub.cei.ictraining.us/admin/ |
 
 Each file is a list of categories (`sections`), each with its links (`title`, optional `subtitle`,
 `url`, optional `icon`). The page loads its file from GitHub when someone visits, so a change here
