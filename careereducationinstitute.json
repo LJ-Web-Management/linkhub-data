@@ -9,7 +9,7 @@
           "url": "https://www.careereducationinstitute.org/"
         },
         {
-          "title": "Job-Title Training",
+          "title": "Job Title Training Catalogue",
           "subtitle": "Online, self-paced career training",
           "url": "https://www.careereducationinstitute.org/training/"
         },
@@ -34,7 +34,7 @@
           "url": "https://www.careereducationinstitute.org/guides/"
         },
         {
-          "title": "CEI Blog",
+          "title": "Blog",
           "subtitle": "blog.careereducationinstitute.org",
           "url": "https://blog.careereducationinstitute.org/"
         },
@@ -51,5 +51,14 @@
       ]
     }
   ],
-  "social": []
+  "social": [
+    {
+      "network": "linkedin",
+      "url": "https://www.linkedin.com/company/careereducationinstitute"
+    },
+    {
+      "network": "instagram",
+      "url": "https://www.instagram.com/careereducationinstitute/"
+    }
+  ]
 }
